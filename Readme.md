@@ -87,7 +87,7 @@ For any questions, feel free to contact the author:
 
 - Email: your.email@example.com
 - GitHub: [your-username](https://github.com/your-username)
-```
+
 
 ### Explanation:
 - **Title and Introduction:** Provides a brief description of the project.
@@ -98,5 +98,4 @@ For any questions, feel free to contact the author:
 - **Example:** A sample interaction with the program.
 - **Error Handling:** Information on how errors are handled.
 - **License, Contributing, and Contact:** Standard sections for open-source projects.
-
-You can customize the placeholders with your actual project information, such as the repository URL, contact details, etc.
+```
