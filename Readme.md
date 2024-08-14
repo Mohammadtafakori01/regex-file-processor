@@ -95,4 +95,4 @@ For any questions, feel free to contact the author:
 - **Example:** A sample interaction with the program.
 - **Error Handling:** Information on how errors are handled.
 - **License, Contributing, and Contact:** Standard sections for open-source projects.
-```
+
