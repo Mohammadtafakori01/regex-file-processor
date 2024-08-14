@@ -1,6 +1,3 @@
-Here is a `README.md` file for your Go project:
-
-```markdown
 # Regex File Processor
 
 This is a simple Go program that processes either a single file or all files within a directory. It searches for lines that match a given regular expression pattern and counts the occurrences. The results are then saved to a specified output file.
